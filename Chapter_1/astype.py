@@ -9,3 +9,6 @@ print(float_arr)
 
 str_arr = arr.astype(str)
 print(str_arr)
+
+strr = arr.astype(str)
+print(strr)
